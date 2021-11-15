@@ -8,13 +8,13 @@ Todo el manejo de la app lo va a realizar por medio de Git que es la ventana de 
 
 Podrá descargar todos los cambios que se hayan hecho en el repositorio
 
-- Para añadir Cambios:
-
-- git status
-
 Ese comando le permite ver los cambios que ha realizado
 
 - git add --all
+
+- Para añadir Cambios:
+
+- git status
 
 Ese comando le permite agregar todos los cambios que ha realizado
 

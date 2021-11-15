@@ -1,0 +1,28 @@
+Aqui le explico brevemente los pasos para manejar GitHub:
+
+Primero que todo necesita la aplicación de escritorio de GitHub y Git (Son aplicaciones diferentes)
+
+Todo el manejo de la app lo va a realizar por medio de Git que es la ventana de comandos
+
+- Con el comando: git pull
+
+Podrá descargar todos los cambios que se hayan hecho en el repositorio
+
+- Para añadir Cambios:
+
+- git status
+
+Ese comando le permite ver los cambios que ha realizado
+
+- git add --all
+
+Ese comando le permite agregar todos los cambios que ha realizado
+
+- git commit -m "Mensaje"
+
+Le permite confirmar los cambios que va a realizar junto con un mensaje para sus cambios
+
+-git push
+
+Sube los cambios que ha confirmado al repositorio
+
